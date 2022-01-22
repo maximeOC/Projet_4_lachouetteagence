@@ -568,14 +568,14 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-modal .modal-dialog {
-  width: 90%;
+  width: 370px;
   max-width: 900px;
   margin: 0 auto 0;
 }
 
 #lightbox-modal .modal-dialog img {
   max-height: 90vh;
-  margin-left: 120px;
+  margin-left: 10px;
 }
 
 .lightbox-caption {
